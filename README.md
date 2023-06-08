@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">Хочу развиваться в области анализа данных, используя свой опыт работы в финансах</h3>
 
-✔️ Мой сертификат Яндекс.Практикум: https://disk.yandex.ru/i/lLvvDxbks-8WyA
+✔️ Мой диплом о проф.переподготовке Яндекс.Практикум: https://disk.yandex.ru/i/lLvvDxbks-8WyA
 
 Мои проекты:
 
